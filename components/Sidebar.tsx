@@ -98,6 +98,15 @@ export default function Sidebar() {
             </Link>
 
             <Link
+              href="#case-studies"
+              onClick={() => setIsOpen(false)}
+              className="flex items-center space-x-3 p-3 rounded-xl bg-white/10 hover:bg-white/20 transition-all group"
+            >
+              <span className="text-xl">📚</span>
+              <span className="font-medium">Case Studies</span>
+            </Link>
+
+            <Link
               href="#about"
               onClick={() => setIsOpen(false)}
               className="flex items-center space-x-3 p-3 rounded-xl bg-white/10 hover:bg-white/20 transition-all group"

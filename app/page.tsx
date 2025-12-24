@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import Sidebar from '@/components/Sidebar';
 import Footer from '@/components/Footer';
+import CaseStudies from '@/components/CaseStudies';
 
 export default function Home() {
   const [scrollY, setScrollY] = useState(0);
@@ -13,7 +14,7 @@ export default function Home() {
       setScrollY(window.scrollY);
       
       // Update active section based on scroll position
-      const sections = ['hero', 'provider', 'leasing', 'placement', 'features', 'stats', 'about'];
+      const sections = ['hero', 'provider', 'leasing', 'placement', 'features', 'stats', 'case-studies', 'about'];
       const current = sections.find(section => {
         const element = document.getElementById(section);
         if (element) {
@@ -338,6 +339,9 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        {/* Case Studies Section */}
+        <CaseStudies />
 
         {/* About Section */}
         <section id="about" className="py-20 px-4 bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50">
