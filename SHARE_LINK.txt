@@ -1,0 +1,71 @@
+🏠 AFHhub - Your Complete Adult Family Home Platform
+
+Hi [Partner Name],
+
+I'd love to get your feedback on our new AFHhub platform! It's a unified portal that brings together three powerful applications for the Adult Family Home industry.
+
+🌐 Access the Platform:
+http://localhost:3000
+
+(Note: This is currently running locally. If you'd like to test it, let me know and I can help you set it up, or we can schedule a demo session.)
+
+📱 What to Review:
+
+1. Landing Page Design & Navigation
+   - Sidebar navigation (left side on desktop, hamburger menu on mobile)
+   - Hero section with animated backgrounds
+   - Overall visual appeal and color scheme
+
+2. Three Application Sections:
+   🔍 Provider Search - Find 580+ verified providers
+   🏠 Property Advisor - Property analysis and conversion planning
+   🏥 Placement Services - Intelligent resident matching
+
+3. Case Studies Section:
+   - Top 3 success stories
+   - Are they compelling and realistic?
+   - Metrics and testimonials
+
+4. Features & Statistics:
+   - Feature cards
+   - Statistics display
+   - Information clarity
+
+5. User Experience:
+   - Navigation flow
+   - Mobile responsiveness
+   - Loading speed
+   - Overall usability
+
+💬 Please Share Your Thoughts On:
+
+✓ What works well?
+✓ What needs improvement?
+✓ Any missing features?
+✓ Design suggestions
+✓ Content accuracy
+✓ User experience issues
+✓ Technical feedback
+
+🎯 Key Questions:
+
+1. Is the platform easy to navigate?
+2. Are the three applications clearly differentiated?
+3. Do the case studies feel authentic and compelling?
+4. Is the information clear and easy to understand?
+5. What would make you more likely to use this platform?
+
+📧 Feel free to reply with your feedback, or we can schedule a call to discuss!
+
+Thanks for your time and input!
+
+Best regards,
+[Your Name]
+
+---
+
+Quick Access Links:
+- Provider Search: https://github.com/henrynkoh/AFHprovider
+- Property Advisor: https://github.com/henrynkoh/AFH-leasing-and-conversion
+- Placement Services: https://github.com/henrynkoh/AFHplacing
+

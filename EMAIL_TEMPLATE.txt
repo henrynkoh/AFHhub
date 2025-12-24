@@ -1,0 +1,102 @@
+Subject: Feedback Request - AFHhub Platform Preview
+
+Hi [Partner Name],
+
+I hope this message finds you well. I'm reaching out to request your valuable feedback on AFHhub, our new unified platform for the Adult Family Home industry.
+
+ABOUT AFHHUB
+
+AFHhub is a comprehensive portal that brings together three powerful applications:
+• AFH Provider Search - Find and connect with 580+ verified providers
+• AFH Property Advisor - Complete property analysis and conversion planning
+• AFH Resident Placement Services - Intelligent matchmaking for senior care placement
+
+The platform is designed to streamline operations for property owners, healthcare professionals, case managers, and AFH providers.
+
+ACCESS THE PLATFORM
+
+Currently, the platform is running locally at:
+http://localhost:3000
+
+If you'd like to test it, I can:
+1. Help you set it up locally (takes about 5 minutes)
+2. Schedule a live demo session
+3. Share a deployed version once it's ready
+
+WHAT I'D LIKE YOU TO REVIEW
+
+1. LANDING PAGE DESIGN
+   - Overall visual appeal and modern design
+   - Sidebar navigation functionality
+   - Color scheme and gradients
+   - Responsive design (desktop, tablet, mobile)
+
+2. CONTENT & MESSAGING
+   - Clarity of information
+   - Case studies authenticity and impact
+   - Feature descriptions
+   - Statistics presentation
+
+3. USER EXPERIENCE
+   - Navigation flow and intuitiveness
+   - Section organization
+   - Call-to-action effectiveness
+   - Mobile experience
+
+4. FUNCTIONALITY
+   - Smooth scrolling and animations
+   - Interactive elements
+   - Loading performance
+   - Overall polish
+
+SPECIFIC FEEDBACK AREAS
+
+✓ What works well and should be kept?
+✓ What needs improvement or clarification?
+✓ Are there any missing features or information?
+✓ Design suggestions (colors, layout, typography)
+✓ Content accuracy and relevance
+✓ User experience pain points
+✓ Technical issues or bugs
+✓ Suggestions for additional sections
+
+KEY QUESTIONS
+
+1. Is the platform's purpose clear from the landing page?
+2. Are the three applications clearly differentiated?
+3. Do the case studies feel authentic and compelling?
+4. Is the navigation intuitive?
+5. What would make you more likely to use this platform?
+6. Any concerns or questions about functionality?
+
+NEXT STEPS
+
+Please share your feedback via:
+• Email reply
+• Phone call (let me know your availability)
+• In-person meeting
+• Detailed written feedback document
+
+Your insights are invaluable and will help us create the best possible platform for the AFH community.
+
+ADDITIONAL RESOURCES
+
+GitHub Repository: https://github.com/henrynkoh/AFHhub
+Documentation: Available in the repository (README, Manual, Tutorial, Quick Start)
+Individual Applications:
+- Provider Search: https://github.com/henrynkoh/AFHprovider
+- Property Advisor: https://github.com/henrynkoh/AFH-leasing-and-conversion
+- Placement Services: https://github.com/henrynkoh/AFHplacing
+
+Thank you for your time and consideration. I look forward to hearing your thoughts!
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Your Contact Information]
+
+---
+
+P.S. If you know others who might benefit from or provide valuable feedback on this platform, please feel free to share this with them!
+

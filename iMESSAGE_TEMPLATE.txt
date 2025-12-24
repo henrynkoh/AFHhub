@@ -1,0 +1,22 @@
+🏠 Hey! I'd love your feedback on AFHhub - our new platform for the Adult Family Home industry.
+
+It's a unified portal with 3 apps:
+🔍 Provider Search (580+ providers)
+🏠 Property Advisor (property analysis)
+🏥 Placement Services (intelligent matching)
+
+Check it out: http://localhost:3000
+
+(Currently local - I can help you set it up or we can do a demo!)
+
+Please review:
+✓ Landing page design & navigation
+✓ The 3 application sections
+✓ Case studies section
+✓ Overall user experience
+✓ Mobile responsiveness
+
+What works? What needs improvement? Any missing features?
+
+Thanks! 🙏
+
